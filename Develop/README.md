@@ -33,5 +33,5 @@ After installing npm packages, this application will be invoked by using the fol
 `npm run develop`
 
 ## Links
-[Github](https://github.com/
-[Heroku](
+- [Github](https://github.com/
+- [Heroku](
